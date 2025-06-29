@@ -18,7 +18,7 @@ export function ThemeToggle() {
       />
       <div className="flex w-full items-center justify-between px-3">
         <span className="text-lg">🌞</span>
-        <span className="text-lg">🌙</span>
+        <span className="text-lg">🌙</span>     
       </div>
     </button>
   )
